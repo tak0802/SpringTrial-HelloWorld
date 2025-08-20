@@ -6,7 +6,7 @@
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "mainClass": "com.service.Main",
-            "projectName": "rest-service-complete",
+            "projectName": "helloworld project!",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
         }
