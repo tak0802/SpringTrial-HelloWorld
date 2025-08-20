@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Main語りの起点ｗ",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.service.Main",
+            "projectName": "rest-service-complete",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
